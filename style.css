@@ -1,0 +1,13 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+.faq-question {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.faq-answer {
+  margin-top: 5px;
+}
